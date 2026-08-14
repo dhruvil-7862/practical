@@ -1,0 +1,231 @@
+<!-- Root & Document -->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<body>
+<title>
+<meta>
+<link>
+<style>
+<base>
+
+<!-- Content Sectioning -->
+<header>
+<footer>
+<main>
+<nav>
+<section>
+<article>
+<aside>
+<c>
+
+<!-- Headings -->
+<h1>
+<h2>
+<h3>
+<h4>
+<h5>
+<h6>
+
+<!-- Text Content -->
+<p>
+<hr>
+<br>
+<pre>
+<blockquote>
+<div>
+
+<!-- Lists -->
+<ul>
+<ol>
+<li>
+<dl>
+<dt>
+<dd>
+
+<!-- Inline Text Semantics -->
+<a>
+<span>
+<strong>
+<b>
+<em>
+<i>
+<u>
+<s>
+<small>
+<mark>
+<sub>
+<sup>
+<del>
+<ins>
+<abbr>
+<cite>
+<q>
+<dfn>
+<time>
+<data>
+<code>
+<var>
+<samp>
+<kbd>
+<bdi>
+<bdo>
+<ruby>
+<rt>
+<rp>
+<wbr>
+
+<!-- Media -->
+<img>
+<picture>
+<source>
+<figure>
+<figcaption>
+<audio>
+<video>
+<track>
+
+<!-- Embedded Content -->
+<iframe>
+<embed>
+<object>
+<param>
+
+<!-- SVG -->
+<svg>
+<circle>
+<rect>
+<ellipse>
+<line>
+<polyline>
+<polygon>
+<path>
+<g>
+<defs>
+<symbol>
+<use>
+<text>
+<tspan>
+<linearGradient>
+<radialGradient>
+<stop>
+<pattern>
+<clipPath>
+<mask>
+
+<!-- Canvas -->
+<canvas>
+
+<!-- Tables -->
+<table>
+<caption>
+<colgroup>
+<col>
+<thead>
+<tbody>
+<tfoot>
+<tr>
+<th>
+<td>
+
+<!-- Forms -->
+<form>
+<input>
+<textarea>
+<button>
+<select>
+<option>
+<optgroup>
+<label>
+<fieldset>
+<legend>
+<datalist>
+<output>
+<progress>
+<meter>
+
+<!-- Interactive -->
+<details>
+<summary>
+<dialog>
+
+<!-- Scripting -->
+<script>
+<noscript>
+<template>
+<slot>
+
+<!-- Web Components -->
+<shadow-root>
+
+<!-- Deprecated / Legacy -->
+<acronym>
+<applet>
+<basefont>
+<big>
+<center>
+<dir>
+<font>
+<frame>
+<frameset>
+<noframes>
+<strike>
+<tt>
+<marquee>
+<menuitem>
+<keygen>
+<listing>
+<xmp>
+<plaintext>
+<nextid>
+<blink>
+<spacer>
+<nobr>
+
+<!-- Misc -->
+<map>
+<area>
+
+<!-- Metadata / Resource -->
+<link>
+<meta>
+<style>
+<base>
+
+<!-- HTML5 Semantic Additions -->
+<article>
+<aside>
+<details>
+<figcaption>
+<figure>
+<footer>
+<header>
+<main>
+<mark>
+<nav>
+<section>
+<summary>
+<time>
+
+<!-- HTML5 Form Elements -->
+<datalist>
+<output>
+<progress>
+<meter>
+
+<!-- HTML5 Media Elements -->
+<audio>
+<video>
+<source>
+<track>
+<picture>
+
+<!-- HTML5 Graphics -->
+<canvas>
+<svg>
+
+<!-- HTML5 Templates -->
+<template>
+<slot>
